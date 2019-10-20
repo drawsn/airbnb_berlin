@@ -17,7 +17,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Airbnb data from Berlin to better understand:
 1. How does cancellation policy influence utilization?
 2. What factors heavily influence review scores?
-3. How does the neighbourhood influence the listing price? What factors heavily influence listing price?
+3. How does the neighbourhood influence the listing price? How well can we predict price of a listing using a linear ML model?
 
 The data source for Berlin 11-07-2019 was downloaded from http://insideairbnb.com.
 
