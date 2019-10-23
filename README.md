@@ -28,7 +28,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@a.hampersberger/airbnb-berlin-first-steps-into-data-science-with-python-pandas-ba26026edf94).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
